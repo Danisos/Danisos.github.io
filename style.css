@@ -14,12 +14,13 @@ p{
     font-family: "Fredoka One",sans-serif;
     text-shadow: 
     1px 1px 1px black;
+    color:white;
     width: 22%;
     border-radius: 0%;
 }
 body > header {
-    background-color: orange;
-    color:white;
+    background-color: rgb(102, 66, 1);
+    
     display: flex;
     height: 12vh;
     align-items: center;
@@ -77,7 +78,7 @@ img{
 }
 
 body > footer{
-    background-color: orange;
+    background-color: rgb(125, 82, 3);
     display: flex;
 }
 #footer-ul{
